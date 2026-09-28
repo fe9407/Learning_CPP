@@ -1,0 +1,41 @@
+nome;elemento;poder;tipo
+Faisca;fogo;1;ATAQUE
+Chama;fogo;2;ATAQUE
+Brasa;fogo;3;ATAQUE
+Labareda;fogo;3;ATAQUE
+Bola de Fogo;fogo;4;ATAQUE
+Explosao;fogo;5;ATAQUE
+Meteoro;fogo;6;ATAQUE
+Gota;agua;1;ATAQUE
+Jato;agua;2;ATAQUE
+Onda;agua;3;ATAQUE
+Geada;agua;3;ATAQUE
+Nevasca;agua;4;ATAQUE
+Tsunami;agua;5;ATAQUE
+Diluvio;agua;6;ATAQUE
+Pedrisco;terra;1;ATAQUE
+Espinho;terra;2;ATAQUE
+Rocha;terra;3;ATAQUE
+Lamacal;terra;3;ATAQUE
+Tremor;terra;4;ATAQUE
+Avalanche;terra;5;ATAQUE
+Terremoto;terra;6;ATAQUE
+Brisa;ar;1;ATAQUE
+Rajada;ar;2;ATAQUE
+Vendaval;ar;3;ATAQUE
+Relampago;ar;3;ATAQUE
+Tornado;ar;4;ATAQUE
+Furacao;ar;5;ATAQUE
+Tempestade;ar;6;ATAQUE
+Reverso Igneo;fogo;0;REVERSO
+Reverso Aquatico;agua;0;REVERSO
+Reverso Telurico;terra;0;REVERSO
+Reverso Eolico;ar;0;REVERSO
+Contrafeitico Igneo;fogo;0;CONTRA
+Contrafeitico Aquatico;agua;0;CONTRA
+Contrafeitico Telurico;terra;0;CONTRA
+Contrafeitico Eolico;ar;0;CONTRA
+Ressurreicao Ignea;fogo;0;RESSURREICAO
+Ressurreicao Aquatica;agua;0;RESSURREICAO
+Ressurreicao Telurica;terra;0;RESSURREICAO
+Ressurreicao Eolica;ar;0;RESSURREICAO
